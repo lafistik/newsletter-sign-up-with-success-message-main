@@ -30,3 +30,6 @@ The designs were created to the following widths:
 
 - Family: [Roboto](https://fonts.google.com/specimen/Roboto)
 - Weights: 400, 700
+
+#FF5279
+#FE6A3C
